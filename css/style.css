@@ -1,0 +1,194 @@
+body{
+    background-color: #e5e5e5;
+}
+/* 全選 */
+.all{
+    width: 375px;
+    background-color: #e5e5e5;
+    box-sizing:border-box;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+.firstimg{
+    display: inline-block;
+    margin-top: 22px;
+    margin-left: 20px;
+    margin-right: 88px;
+    width: 219px;
+}
+.hamburger{
+    vertical-align: middle;
+    display: inline-block;
+    width: 28px
+}
+.hamburger > div{
+    border-top: 3px solid #C71B0A;
+    border-radius: 2px;
+    margin-top: 8px;
+}
+.hamburger-3{
+    margin-bottom: 37px;
+}
+.subtitle{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 32px;
+    margin-right: 17px;
+    width: 326px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 50px;
+    color: #000000;
+}
+.maintitle{
+    margin-top: 7px;
+    margin-bottom: 34px;
+    margin-left: 25px;
+    margin-right: 24px;
+    width: 326px;
+    font-family: 'Noto Sans TC',sans-serif;;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;
+    color: #404040;
+}
+.secondimg{
+    margin-bottom: 20px;
+}
+.firstfig{
+    width: 360px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 74px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #808080;
+}
+.metadata{
+    width: 304px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.separation-line{
+    height: 15px;
+    border-top: 1px solid #D0D0D0;
+    border-right: 1px solid #D0D0D0;
+}
+.category{
+    margin-top: -5px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color:  #A67A44;;
+}
+.published-date{
+    margin-top: -5px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #808080;
+}
+.tags1{
+    display: inline-block;
+    margin-top: 45px;
+    margin-right: 7px;
+    padding: 6px 11px;
+    border: 1px solid #808080;
+    border-radius: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #808080;
+}
+.tags2{
+    display: inline-block;
+    margin-top: 45px;
+    padding: 6px 13px;
+    border: 1px solid #808080;
+    border-radius: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #808080;
+}
+.separation-line-second{
+    height: 15px;
+    border-top: 1px solid #D0D0D0;
+    border-right: 1px solid #D0D0D0;
+    margin-top: 17px;
+}
+.separation-line-third{
+    height: 15px;
+    border-top: 1px solid #D0D0D0;
+    border-right: 1px solid #D0D0D0;
+    margin-top: 15px;
+    border-top: none;
+    border-bottom: 1px solid #D0D0D0;
+}
+.toolbox{
+    margin-top: 23px;
+    margin-bottom: 81px;
+}
+.toolbox > img{
+    margin-left: 17px;
+    vertical-align: middle;
+}
+.toolbox > img.firstchild{
+    margin-left: 0px;
+}
+p{
+    width: 300px;
+    margin-right: 38px;
+    margin-left: 38px;
+    margin-bottom: 40px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #404040;
+    letter-spacing: 0.5px;
+}
+.bg-white{
+    background-color: #FFFFFF;
+    margin-left: 0;
+    width: 300px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 14px;
+    padding-bottom: 22px;
+}
+.thirdimg{
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+.secondfig{
+    width: 235px;
+    margin-left: 125px;
+    margin-right:15px;
+    margin-bottom: 34px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #D0A67D;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.4px;
+    color: #999999;
+}
